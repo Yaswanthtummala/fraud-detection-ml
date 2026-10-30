@@ -59,7 +59,12 @@ python app.py
 ```
 Then open `http://127.0.0.1:5000` in your browser.
 
-> **Note:** The full dataset is not included because of GitHub's file size limits.
+> ## 📁 Dataset & Notebook
+
+The full 5-million-row dataset is not uploaded to this repo because of GitHub's file size limits.
+The complete analysis — data loading, feature engineering, SMOTE, model comparison and threshold tuning — is in the notebook:
+
+👉 **[Fraud_Detection_Analysis.ipynb](https://github.com/Yaswanthtummala/fraud-detection-ml/blob/main/Fraud_Detection_Analysis.ipynb)**
 
 ## 👤 Author
 
